@@ -1,0 +1,133 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/JacquardaBastarda9-Regular.ttf",
+      "sha1": "42043544d5db8cdd5e411e5ccbcfe14fff908222"
+    },
+    {
+      "path": "src/assets/fonts/Sora-Bold.ttf",
+      "sha1": "a90703d8b7152c8635b15caade8cd3b987850092"
+    },
+    {
+      "path": "src/assets/fonts/Sora-ExtraBold.ttf",
+      "sha1": "5f63f44b7e797cae1247acf22010e7e4e05ef87f"
+    },
+    {
+      "path": "src/assets/fonts/Sora-ExtraLight.ttf",
+      "sha1": "e3a46cbb5914ee8d2376d4c15e3e3d679bb94ead"
+    },
+    {
+      "path": "src/assets/fonts/Sora-Light.ttf",
+      "sha1": "14c294c81c53cecc5122aa97f48d95c193643479"
+    },
+    {
+      "path": "src/assets/fonts/Sora-Medium.ttf",
+      "sha1": "faa8a98d604ca71c41aa4ffbbd2bd74bf645abe6"
+    },
+    {
+      "path": "src/assets/fonts/Sora-Regular.ttf",
+      "sha1": "3b4ed53d52716224736d762d55e9a74d34a980c9"
+    },
+    {
+      "path": "src/assets/fonts/Sora-SemiBold.ttf",
+      "sha1": "ed7c3980e8ec4a284ddd71276ae50177b54ee0f6"
+    },
+    {
+      "path": "src/assets/fonts/Sora-Thin.ttf",
+      "sha1": "30f93d8cf40119c65358699b62ebed569aee1d93"
+    },
+    {
+      "path": "src/assets/images/delivery_boy.png",
+      "sha1": "cafcda3872b1559796c1f739dde540fa6e81b5e6"
+    },
+    {
+      "path": "src/assets/images/image.png",
+      "sha1": "ff4a9be24ecb82721ebc39e4bc20b747c0742ac2"
+    },
+    {
+      "path": "src/assets/images/image1.png",
+      "sha1": "f1516871b5f107641c45819a1164ab2867522aa2"
+    },
+    {
+      "path": "src/assets/images/image2.png",
+      "sha1": "3ac3915d97df4c56632ae4de8816c4caa466c028"
+    },
+    {
+      "path": "src/assets/images/image3.png",
+      "sha1": "6f17ac5cf58d9b67d7116b466658406d4adf6abb"
+    },
+    {
+      "path": "src/assets/images/image4.png",
+      "sha1": "fcd2a7eaee494b263230b4e8d2ca1e0875183b50"
+    },
+    {
+      "path": "src/assets/images/maps.png",
+      "sha1": "0584585985f5cddc97df199176781dd91014dab0"
+    },
+    {
+      "path": "src/assets/images/onboarding.png",
+      "sha1": "ceadaa416f9a73b8ecfa3b4c18e57634ea25e2ac"
+    },
+    {
+      "path": "src/assets/images/promo_banner.png",
+      "sha1": "26a550b3329433bc439c3ce7f68f9dcd8d57a474"
+    },
+    {
+      "path": "src/assets/logos/arrow_down.png",
+      "sha1": "cf6ae6951c7de21556e6616007f6290175fe8209"
+    },
+    {
+      "path": "src/assets/logos/arrow_left.png",
+      "sha1": "4614f0604548aa121bc95b0873eab7d1ea73aec5"
+    },
+    {
+      "path": "src/assets/logos/arrow_right.png",
+      "sha1": "d0a3585794dfda5bc7d7d977a83b82b9d2eda90c"
+    },
+    {
+      "path": "src/assets/logos/bean.png",
+      "sha1": "1a28878dc21c6a68435bd65164f375677a7d820c"
+    },
+    {
+      "path": "src/assets/logos/call.png",
+      "sha1": "a67de304d95d749e7856ea439a68b74cd0e91470"
+    },
+    {
+      "path": "src/assets/logos/delivery.png",
+      "sha1": "129ddd913314f38429531d0e233b00c0d5d44e37"
+    },
+    {
+      "path": "src/assets/logos/document.png",
+      "sha1": "34f7a1277d283c9330c15e4b0b53ff3b3fd3512b"
+    },
+    {
+      "path": "src/assets/logos/edit.png",
+      "sha1": "f668e5189c23c387aa1c4875910cd71aebdce998"
+    },
+    {
+      "path": "src/assets/logos/filter_logo.png",
+      "sha1": "d232d98112e57d8b3be6471154a2554ed0cc047d"
+    },
+    {
+      "path": "src/assets/logos/gps.png",
+      "sha1": "d341075e82098b18f5a481e44871ed10dd541003"
+    },
+    {
+      "path": "src/assets/logos/milk.png",
+      "sha1": "01818c9132151d706a5454b90d6d15a034be411c"
+    },
+    {
+      "path": "src/assets/logos/order.png",
+      "sha1": "45565ed6d71eb4fcdbe984125e6563a1404f8ac4"
+    },
+    {
+      "path": "src/assets/logos/search.png",
+      "sha1": "ed7e17f87954aa03e74b5e93657ae0b55417c721"
+    },
+    {
+      "path": "src/assets/logos/wallet.png",
+      "sha1": "92a8291d04ed83ce606a0f4f6850928447754764"
+    }
+  ]
+}
